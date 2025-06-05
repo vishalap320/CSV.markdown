@@ -24,8 +24,8 @@ def convert_excel_to_markdown_files(file_path, output_dir):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    excel_path = "C:\\Users\\Shifu05\\Downloads\\stream_of_thoughts (1).csv"
-    output_directory = "C:\\Users\\Shifu05\\Documents\\stream_thoughts.md"
+    excel_path = "C:\\Users\\visha\\Downloads\\stream_of_thoughts.xlsx"
+    output_directory = "C:\\Users\\visha\\Downloads\\stream_thoughts_md"
     convert_excel_to_markdown_files(excel_path, output_directory)
 
     
