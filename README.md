@@ -36,6 +36,12 @@ You want a simple way to batch convert structured inputs to Markdown format
 ---
 
 ## How to Run This Code
+Make sure Python 3.10+ is installed on your system.
+You can check by running:
+```python
+python --version
+```
+If not installed, download it from: https://www.python.org/downloads/
 
 1. ### Install dependencies
 ```bash
